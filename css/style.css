@@ -110,17 +110,7 @@
     }
 
     /****** Search bar ***********/
-/*
-    .search_bar{
-        display:flex;
-        flex-direction: row;
-        align-items: center;
-        height: 49px;
-        gap: 24px; 
-        border-radius: 15px;
-        background: var(--White, #FFF); 
-    }
-*/
+
     form{
         display: flex;
     }
@@ -154,11 +144,7 @@
         text-align: center;
         font-family: Raleway; */
         font-size: 18px;
-       /* font-style: normal;
-        font-weight: 700;
-        line-height: normal; 
-        border:none;
-        opacity: 1; */
+  
         border: 2px solid var(--main-bg-color);
         width:195px;
     }
